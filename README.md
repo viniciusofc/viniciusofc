@@ -3,10 +3,14 @@
  <img align="left" alt="Rafa-pic" height="180" src="https://2.bp.blogspot.com/-2D4L7sKDbC4/Vt2_j1wWxgI/AAAAAAAAAfI/R4liNaN-rMY/s1600/charge%2B1.jpg" data-canonical-src="?width=676&amp;height=676" style="max-width: 100%;">
 </div>
 </div>
+
 <div align="center">
   <a href="https://github.com/viniciusofc">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=viniciusofc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusofc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusofc&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
