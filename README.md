@@ -1,5 +1,5 @@
 <div align="center" >
-  <h1>Opa, beleza! Meu nome é Vinicius Reis e estou fazendo parte dessa jornada.</h1> <div>
+  <h1>Opa, beleza! Meu nome é Vinicius Reis.</h1> <div>
  <img align="left" alt="Rafa-pic" height="180" src="https://2.bp.blogspot.com/-2D4L7sKDbC4/Vt2_j1wWxgI/AAAAAAAAAfI/R4liNaN-rMY/s1600/charge%2B1.jpg" data-canonical-src="?width=676&amp;height=676" style="max-width: 100%;">
 </div>
 </div>
