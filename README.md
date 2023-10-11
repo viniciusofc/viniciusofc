@@ -1,5 +1,5 @@
 <div align="center" >
-  <h1>Opa, beleza! Meu nome é Vinicius Reis.</h1> 
+  <h1>Fala Dev, beleza? Meu nome é Vinicius.</h1> 
 </div>
 
 
@@ -20,7 +20,7 @@
   
  
 <div> 
-  <a href="https://instagram.com/Vinicius[Reis]#9872" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/viniciuse_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/vin%C3%ADcius-reis-a80309221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://steamcommunity.com/profiles/76561198904389872//" target="_blank"><img src="https://logodownload.org/wp-content/uploads/2018/01/steam-logo-1.png?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="100" target="_blank"></a> 
